@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NANDKUMAR911/nandkumar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!doctype html>
+<html>
+<head>
+<title> NANDKUMAR - LOGIN.PAGE </title>
+<style>
+body {
+  background-image: url("https://wallpaperaccess.com/full/58330.jpg");
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+}
 
-### Markdown
+#T{
+  width:325px;
+  height:475px;
+  margin-top:40px;
+ box-shadow: 6px 6px 5px 5px;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+</style>
+</head>
+<body >
+<div align="center" >
+  <fieldset id="T"><br><br><br><br>
+    <img src="https://icon-library.com/images/admin-login-icon/admin-login-icon-15.jpg" width="100px" ><br><br><br>
+&nbsp<label for="un" > Username : </label><br>
+<input required type="email"  name="un" size="30"placeholder="enter email address"></input><br><br>
+<label for="pd" > Password : </label><br>
+<input required type="password"  name="pd" size="30" placeholder="enter password"></input><br><br>
+<a href="" > Create Account</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="" > Forgot password</a><br><br><br><br>
+<input type="image"  src="https://www.freeiconspng.com/uploads/login-button-png-8.png" required value="submit" alt="login button" width="75px" title="submit butto">
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NANDKUMAR911/nandkumar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+</fieldset>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
